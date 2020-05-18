@@ -1,0 +1,2 @@
+executar o comando npm install --save react-native-router-flux
+
