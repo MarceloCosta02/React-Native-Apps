@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738241994709",
+    "firebase_url": "https://joinfinance-1e755.firebaseio.com",
+    "project_id": "joinfinance-1e755",
+    "storage_bucket": "joinfinance-1e755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738241994709:android:49060e1998d6377e4ce75c",
+        "android_client_info": {
+          "package_name": "com.testejf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738241994709-tdc3ljf5vcrn2mjfh8e7q5aobn664t6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0UL0S2EioPjayUy1QKNqZuD5QPrOR1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738241994709-tdc3ljf5vcrn2mjfh8e7q5aobn664t6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
