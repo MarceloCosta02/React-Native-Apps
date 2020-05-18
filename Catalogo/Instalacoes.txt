@@ -1,0 +1,9 @@
+Expandir a capacidade de interpretação de codigo pelo axios
+
+npm install --save-dev babel-preset-es2015
+
+
+npm install --save-dev babel-preset-react
+
+
+npm install --save axios
