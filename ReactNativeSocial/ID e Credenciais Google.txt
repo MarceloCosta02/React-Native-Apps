@@ -1,0 +1,3 @@
+ID do cliente da Web  1006424553795-8pvbf43ra6q6j459307jce35fa4b8d1l.apps.googleusercontent.com
+
+Chave secreta do cliente da Web  TECvmEjgyDrrf37MgiMwjQY7

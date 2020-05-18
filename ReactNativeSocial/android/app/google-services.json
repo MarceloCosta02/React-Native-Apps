@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006424553795",
+    "firebase_url": "https://reactnativesocial-61d1c.firebaseio.com",
+    "project_id": "reactnativesocial-61d1c",
+    "storage_bucket": "reactnativesocial-61d1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006424553795:android:55225292dc58c5706d57f6",
+        "android_client_info": {
+          "package_name": "com.reactnativesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006424553795-alorfj3gvrqvoq2prfrkjvp55liiecmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativesocial",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1006424553795-8pvbf43ra6q6j459307jce35fa4b8d1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMyNTaHShuW5rZ3Hn9c-D8QXBt9nS-XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006424553795-8pvbf43ra6q6j459307jce35fa4b8d1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
