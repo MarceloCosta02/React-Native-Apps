@@ -1,0 +1,26 @@
+import React, { Component } from 'react';
+import { Text, View } from 'react-native';
+
+class MeuComponente extends Component{
+  render(){
+    return(
+      <View>
+        <Text>{this.props.propriedade1}</Text>
+        <Text>{this.props.xyz}</Text>
+        <Text>{this.props.p}</Text>
+      </View>
+    );
+  }
+}
+
+// Atribuição de props é feita pelo elemento pai
+class App extends Component{
+
+  render(){
+    return (
+        <MeuComponente propriedade1='Banana' xyz='Abaxaxi' p='Uva'></MeuComponente> // Renderiza a class MeuComponente, recebendo o retorno dela
+    );
+  }  
+};
+
+export default App;
