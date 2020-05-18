@@ -1,0 +1,39 @@
+.login-container{
+    height: 100%; /* altura */
+    display: flex;
+    justify-content: center; /* alinha o item horizontalmente ao centro */
+    align-items: center; /* alinha o item verticalmente ao centro */
+}
+
+.login-container form{
+    width: 100%;
+    max-width: 300px; /* para deixar responsiva */
+    display: flex;
+    flex-direction: column; /* deixar os elementos um ebaixo do outro */
+}
+
+.login-container form input{
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    height: 48px;
+    padding: 0 20px; /* 0 é horizontal  */
+    font-size: 16px;
+    color: #666;
+}
+
+.login-container form input::placeholder{ /* texto estatico que fica no txt box */
+    color: #999;
+}
+
+.login-container form button{
+    margin-top: 10px;
+    border: 0;
+    border-radius: 4px;
+    height: 48px;
+    font-size: 16px;
+    background: #DF4723;
+    font-weight: bold; /* negrito */
+    color: #FFF;
+    cursor: pointer; /* muda o cursor do mouse */
+}
