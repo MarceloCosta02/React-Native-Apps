@@ -1,0 +1,11 @@
+criar app web
+
+yarn create react-app web // -> web é o nome do projeto
+
+-- dentro do backend
+
+yarn add cors // tira o bloqueio de acesso a API de outros lugares
+
+-- instalar o axios 
+
+yarn add axios

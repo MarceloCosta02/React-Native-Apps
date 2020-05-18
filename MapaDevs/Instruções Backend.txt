@@ -1,0 +1,44 @@
+Biblioteca Express
+
+yarn add express
+
+
+Para executar o servidor em node no terminal :
+
+node index.js (nome da classe principal)
+
+yarn add express
+
+
+Para instalar a atualização automatica do node sem precisar restartar o serviço
+
+yarn add nodemon -D
+
+
+Para executar o servidor com nodemon
+
+yarn nodemon index.js
+
+
+Dentro do package.json para não ter q escrever o comando acima sempre
+
+"scripts": {
+    "dev": "nodemon index.js"
+  },
+
+após colocar esse código é só executar yarn dev
+
+
+Para usar o método get na rota principal do app
+
+app.get('/', (request, response) => {
+    return response.json({ message: 'Hello World'});
+});
+
+
+Biblioteca para acessar a base de dados em mongo db
+yarn add mongoose
+
+
+Realizar chamadas para outras apis
+yarn add axios
